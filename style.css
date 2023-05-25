@@ -1,0 +1,18 @@
+
+
+    body {
+      background-color: rgb(33, 158, 75);
+      font-family: Arial;
+      color: rgb(199, 78, 62);
+      font-size: 115%;
+      margin: 50px;
+    }
+  
+    #chatbox {
+      padding: 20pt; 
+      border-style: solid;
+      border-width: 2px;
+      border-color: grey;
+      border-radius: 6px;
+  
+    }
